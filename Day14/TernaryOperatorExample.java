@@ -13,7 +13,6 @@ public class TernaryOperatorExample {
         String hasil = (angka % 2 == 0) ? "Genap" : "Ganjil";
         System.out.println("Angka " + angka + " Adalah bilangan " + hasil);
         
-            
     }
 }
     
