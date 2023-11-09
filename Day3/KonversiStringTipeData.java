@@ -2,8 +2,8 @@
 package Day3;
 
 public class KonversiStringTipeData {
-    public static void main(String[] args){
-        //Konversi String ke Tipe Data Primitif\
+    static public void main(String[] args){
+        //Konversi String ke Tipe Data Primitif
         String angkaString ="123";
         int angkaInt = Integer.parseInt(angkaString);
         double angkaDouble = Double.parseDouble (angkaString);
@@ -17,7 +17,7 @@ public class KonversiStringTipeData {
         //Konversi Tipe Data Primitif ke String
         int angka = 456;
         double doubleAngka = 789.123;
-        boolean booleanValue = true;
+        boolean booleanValue = true; 
 
         String angkaString2 = String.valueOf(angka);
         String doubleAngkaString = String.valueOf(doubleAngka);
