@@ -9,7 +9,7 @@ public class StringBufferBuilder {
     
         // Deklarasi variabel namaBaru 
         StringBuilder namaBaru = new StringBuilder("Tika");
-        // Membalik urutan karakter NamaBaru
+        // Membalik urutan karakter 
         namaBaru.reverse();
         System.out.println("Nama baru: " + namaBaru);
     }
