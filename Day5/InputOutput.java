@@ -14,6 +14,7 @@ public class InputOutput {
         System.out.println("Anda memasukkan angka: " + angka);
 
         scanner.close();
+
     }
     
 }

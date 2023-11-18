@@ -19,6 +19,7 @@ public class DataDiri {
         System.out.println("Jenis Kelamin: " + jenisKelamin);
         System.out.println("Menikah: " + menikah);
         
+        
     }
     
 }

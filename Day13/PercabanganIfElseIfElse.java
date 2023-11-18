@@ -3,7 +3,7 @@ package Day13;
 public class PercabanganIfElseIfElse {
      public static void main(String[] args) {
         int bilangan = 10;
-
+        
         if (bilangan > 10) {
             System.out.println("Bilangan tersebut lebih besar dari 10");
         } else if (bilangan > 7) {

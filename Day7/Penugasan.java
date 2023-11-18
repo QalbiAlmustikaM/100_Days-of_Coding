@@ -3,7 +3,7 @@ package Day7;
 public class Penugasan {
     public static void main(String[] args) {
         //Inisialisasi variabel
-        int a = 10;
+        int a = 2;
         int b = 20;
 
         //Penugasan 

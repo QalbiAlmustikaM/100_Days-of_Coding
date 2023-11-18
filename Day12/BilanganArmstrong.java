@@ -14,9 +14,9 @@ public class BilanganArmstrong {
         }
 
         if (jumlah == asli) {
-            System.out.println(asli + " adalah bilangan Armstrong.");
+            System.out.println(asli + " adalah bilangan Armstrong");
         } else {
-            System.out.println(asli + " bukan bilangan Armstrong.");
+            System.out.println(asli + " bukan bilangan Armstrong");
         }
     }
     

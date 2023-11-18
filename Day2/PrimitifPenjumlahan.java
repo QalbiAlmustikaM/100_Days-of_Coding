@@ -10,5 +10,6 @@ public class PrimitifPenjumlahan {
 
         // Menampilkan hasil
         System.out.println("Hasil penjumlahan: " + hasil);
+        
     }
 }
