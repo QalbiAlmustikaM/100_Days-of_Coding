@@ -2,7 +2,6 @@ package Day42;
 
 import java.util.Scanner;
 
-
 public class KelipatanTiga {
     public static void main(String[] args) {
         // Membuat objek scanner untuk mengambil inputan pengguna
