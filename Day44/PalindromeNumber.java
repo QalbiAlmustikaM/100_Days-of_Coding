@@ -8,7 +8,7 @@ public class PalindromeNumber {
         System.out.print("Masukkan bilangan: ");
         int n = in.nextInt();
 
-        // Membalikkan bilangan**
+        // Membalikkan bilangan
         int reverse = 0;
         while (n > 0) {
             reverse = reverse * 10 + n % 10;
