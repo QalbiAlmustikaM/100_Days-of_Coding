@@ -8,9 +8,9 @@ public class PengambilanKeputusan {
 
         // Pengambilan keputusan
         if (usia >= 21 && penghasilan >= 3000000) {
-            System.out.println("Pemohon memenuhi syarat untuk mengajukan pinjaman.");
+            System.out.println("Pemohon memenuhi syarat untuk mengajukan pinjaman");
         } else {
-            System.out.println("Pemohon tidak memenuhi syarat untuk mengajukan pinjaman.");
+            System.out.println("Pemohon tidak memenuhi syarat untuk mengajukan pinjaman");
         }
      
     }
