@@ -23,6 +23,5 @@ public class KonversiSuhu {
     private static double konversiCelciusToKelvin(double celcius) {
         return celcius + 273.15;
     }
-    }
     
 }
