@@ -6,7 +6,8 @@ public class PasswordGenerator {
     public static void main(String[] args) {
         Random random = new Random();
 
-        int panjangPassword = 8; // Panjang password yang diinginkan
+        // Panjang password yang diinginkan
+        int panjangPassword = 8; 
         String kumpulanKarakter = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()";
         char[] password = new char[panjangPassword];
 
