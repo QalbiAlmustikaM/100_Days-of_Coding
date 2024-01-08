@@ -2,7 +2,7 @@ package Day91;
 
 import java.util.Scanner;
 
-public class LuasAlasTanung {
+public class LuasAlasTabung {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
