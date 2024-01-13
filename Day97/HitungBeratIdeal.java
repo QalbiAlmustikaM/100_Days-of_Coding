@@ -12,7 +12,7 @@ public class HitungBeratIdeal {
         double beratIdeal;
 
         // Menampilkan menu
-        System.out.println("=".repeat(10) + " Menghitung Berat Badan Ideal ".repeat(10) + "".repeat(10));
+        System.out.println("=".repeat(10) + " Menghitung Berat Badan Ideal ".repeat(10) + "=".repeat(10));
         System.out.println("Pilih Gender \n1. Laki-laki\n2. Perempuan");
         gender = input.next();
 
